@@ -1,4 +1,5 @@
-There are NN dishes in a row on a kaiten belt, with the iith dish being of type D_iD 
+# There are NN dishes in a row on a kaiten belt, with the iith dish being of type D_iD
+
 i
 ​
  . Some dishes may be of the same type as one another.
@@ -8,7 +9,7 @@ Please take care to write a solution which runs within the time limit.
 Constraints
 1 \le N \le 500{,}0001≤N≤500,000
 1 \le K \le N1≤K≤N
-1 \le D_i \le 1{,}000{,}0001≤D 
+1 \le D_i \le 1{,}000{,}0001≤D
 i
 ​
  ≤1,000,000

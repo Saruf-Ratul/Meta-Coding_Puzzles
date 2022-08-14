@@ -1,4 +1,5 @@
-Given three integers AA, BB, and CC, determine their sum.
+# Given three integers AA, BB, and CC, determine their sum
+
 Your task is to implement the function getSum(A, B, C) which returns the sum A + B + CA+B+C.
 Constraints
 1 \le A, B, C \le 1001≤A,B,C≤100
